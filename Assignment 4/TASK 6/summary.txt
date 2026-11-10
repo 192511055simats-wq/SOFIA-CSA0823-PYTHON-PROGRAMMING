@@ -1,0 +1,7 @@
+Accepted unique registrations: 7
+Event groups: 4
+Errors / rejected records / file errors: 4
+Dance: 3
+Drama: 2
+Music: 3
+Quiz: 2

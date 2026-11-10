@@ -1,0 +1,5 @@
+Filename,Line,Record,Reason
+C:\Users\ADMIN\Desktop\PYTHON\ASSESSMENT-4\TASK6\input\department1.csv,3,"192311003,Meena,Mechanical,meenaexample.com,Music",invalid email address
+C:\Users\ADMIN\Desktop\PYTHON\ASSESSMENT-4\TASK6\input\department1.csv,6,"192311005,John,IT,john@example.com","expected 5 fields, found 4"
+C:\Users\ADMIN\Desktop\PYTHON\ASSESSMENT-4\TASK6\input\department1.csv,5,192311001,duplicate register number
+C:\Users\ADMIN\Desktop\PYTHON\ASSESSMENT-4\TASK6\input\department5.csv,-,,file error: [Errno 2] No such file or directory: 'C:\\Users\\ADMIN\\Desktop\\PYTHON\\ASSESSMENT-4\\TASK6\\input\\department5.csv'

@@ -1,0 +1,8 @@
+register_no,name,department,email,events
+192311001,Asha,Computer Science,asha@example.com,Dance;Music
+192311002,Ravi,Electronics,ravi@example.com,Drama
+192311004,Kiran,Civil,kiran@example.com,Dance;Quiz
+192311006,Leela,Arts,leela@example.com,Drama;Music
+192311007,Arun,IT,arun@example.com,Quiz
+192311008,Nila,Commerce,nila@example.com,Dance
+192311009,Dev,Science,dev@example.com,Music
