@@ -1,0 +1,2 @@
+File Name,Line Number,Record,Reason
+adyar.csv,5,"{'station': 'Adyar', 'date': '2026-10-02', 'hour': '09:00', 'pm25': '-5', 'pm10': '70', 'no2': '30', 'temperature': '30.0'}",Negative pm25 value
