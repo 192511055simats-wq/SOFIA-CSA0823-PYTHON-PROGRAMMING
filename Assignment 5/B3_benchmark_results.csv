@@ -1,0 +1,4 @@
+Stations,Approx Rows,Loops (s),Pandas (s),SQL (s),Fastest
+1,8760,0.0061,0.0117,0.0302,Loops
+12,105120,0.0524,0.107,0.4032,Loops
+120,1051200,0.4947,0.8338,3.2027,Loops

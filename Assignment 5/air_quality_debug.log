@@ -1,0 +1,12 @@
+2026-11-13 12:51:01,127 - ERROR - Input file not found: ..\TASK A2\cleaned_readings.csv
+2026-11-13 12:52:01,938 - INFO - Loaded 4 records
+2026-11-13 12:52:01,944 - INFO - Cleaned records: 4
+2026-11-13 12:52:01,944 - WARNING - Rejected records: 0
+2026-11-13 12:52:01,948 - INFO - Loaded 4 records
+2026-11-13 12:52:01,948 - INFO - Cleaned records: 4
+2026-11-13 12:52:01,948 - WARNING - Rejected records: 0
+2026-11-13 12:52:01,948 - INFO - Analysis completed successfully
+2026-11-13 12:52:01,965 - INFO - Loaded 4 records
+2026-11-13 12:52:01,965 - INFO - Cleaned records: 4
+2026-11-13 12:52:01,965 - WARNING - Rejected records: 0
+2026-11-13 12:52:01,972 - INFO - Analysis completed successfully

@@ -1,0 +1,10 @@
+AIR QUALITY - DEBUGGING AND PROFILING RESULTS
+==============================================
+Total records: 4
+Valid records: 4
+Rejected records: 0
+Data loading time: 0.002394 seconds
+Data cleaning time: 0.001271 seconds
+Data analysis time: 0.000583 seconds
+Timeit total: 0.007900 seconds
+Timeit average: 0.0000007900 seconds

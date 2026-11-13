@@ -1,0 +1,5 @@
+ERROR: missing_column.csv: Schema error or wrong delimiter. Found columns: ['station', 'day']; quarantined
+INFO: wrong_delimiter.csv: accepted (1 records)
+ERROR: different_encoding.csv: Encoding error: unable to decode as UTF-8; quarantined
+ERROR: empty_file.csv: Empty file: no data or header; quarantined
+INFO: Parameterized SQL injection test completed safely

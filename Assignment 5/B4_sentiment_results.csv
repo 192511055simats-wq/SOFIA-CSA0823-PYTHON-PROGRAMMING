@@ -1,0 +1,51 @@
+Complaint,Manual Label,Predicted Label,Correct
+The roads are clean and the bus was fast.,positive,positive,True
+The factory smoke makes the air bad.,negative,negative,True
+The staff were not helpful.,negative,negative,True
+"Not bad, the service improved.",positive,positive,True
+The streets are dirty and the air is polluted.,negative,negative,True
+The bus service is good today.,positive,positive,True
+The roads are broken and dirty.,negative,negative,True
+The staff are helpful and the service is good.,positive,positive,True
+The factory releases smoke every morning.,negative,negative,True
+The transport service is slow.,negative,negative,True
+The air quality has improved.,positive,positive,True
+The roads are clean.,positive,positive,True
+The bus was not fast.,negative,negative,True
+The workers were rude.,negative,negative,True
+The service is not bad.,positive,positive,True
+There is heavy smoke near the school.,negative,negative,True
+The public transport is good.,positive,positive,True
+The road is broken and dirty.,negative,negative,True
+The staff were never helpful.,negative,negative,True
+The environment is clean and healthy.,positive,positive,True
+The bus service is slow and bad.,negative,negative,True
+The complaint was recorded yesterday.,neutral,neutral,True
+The meeting will happen tomorrow.,neutral,neutral,True
+The station is located near the market.,neutral,neutral,True
+The report contains daily pollution readings.,neutral,neutral,True
+The factory operates during the daytime.,neutral,neutral,True
+The road connects two residential areas.,neutral,neutral,True
+The survey was conducted last week.,neutral,neutral,True
+The station recorded several readings.,neutral,neutral,True
+The department received a new report.,neutral,neutral,True
+The air is not clean.,negative,negative,True
+The service is not slow.,positive,positive,True
+The factory smoke is terrible.,negative,negative,True
+The roads are good and clean.,positive,positive,True
+The staff are rude and unhelpful.,negative,negative,True
+The air quality is bad near the factory.,negative,negative,True
+The bus service improved this month.,positive,positive,True
+The water supply is normal today.,neutral,neutral,True
+The pollution report was submitted.,neutral,neutral,True
+The traffic department held a meeting.,neutral,neutral,True
+The bus was fast but the road was dirty.,negative,neutral,False
+The service was not helpful yesterday.,negative,negative,True
+The air quality is good near the park.,positive,positive,True
+The factory has a new operating schedule.,neutral,neutral,True
+The smoke problem has not improved.,negative,negative,True
+The roads are clean but the bus is slow.,negative,neutral,False
+The staff were helpful during registration.,positive,positive,True
+The pollution readings were recorded hourly.,neutral,neutral,True
+The bus was not bad today.,positive,positive,True
+The complaint concerns the factory location.,neutral,neutral,True
