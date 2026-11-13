@@ -1,0 +1,4 @@
+station,reading_date,pm25_min,pm25_max,pm25_mean,valid_reading_count
+Adyar,2026-10-01,48.0,55.0,51.5,2
+Adyar,2026-10-02,42.0,42.0,42.0,1
+Adyar,2026-10-03,60.0,60.0,60.0,1
